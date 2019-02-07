@@ -1,3 +1,5 @@
+https://github.com/devopsgroup-io/vagrant-digitalocean
+
 1) Install vagrant & vagrant-digitalocean plugin
 2) Put your access token for your own digital ocean account
 3) do `vagrant up` to create and provision the droplet
